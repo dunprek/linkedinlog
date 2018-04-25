@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkedin-sdk/linkedin-sdk.iml" filepath="$PROJECT_DIR$/linkedin-sdk/linkedin-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedin-sdk/linkedin-sdk.iml" filepath="$PROJECT_DIR$/linkedin-sdk/linkedin-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedinlog.iml" filepath="$PROJECT_DIR$/linkedinlog.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkedinlogin.iml" filepath="$PROJECT_DIR$/linkedinlogin.iml" />
     </modules>
   </component>

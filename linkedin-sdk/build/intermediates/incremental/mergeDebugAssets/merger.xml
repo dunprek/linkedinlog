@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\android_projects\linkedinlogin\linkedin-sdk\src\main\assets"/><source path="E:\android_projects\linkedinlogin\linkedin-sdk\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\android_projects\linkedinlogin\linkedin-sdk\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/gideon/linkedinlog/linkedin-sdk/src/main/assets"/><source path="/Users/gideon/linkedinlog/linkedin-sdk/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/gideon/linkedinlog/linkedin-sdk/src/debug/assets"/></dataSet></merger>
